@@ -77,13 +77,4 @@ The **Online Voting System** is an interactive and secure application designed t
 
 ---
 
-## 📈 Future Enhancements
-- **Enhanced Security**: Encrypt server-client communication.
-- **Database Integration**: Store voter details and voting history securely.
-- **Mobile-Friendly Interface**: Develop a responsive GUI for mobile devices.
-- **Advanced Verification**: Implement voter ID validation for added security.
-
----
-
-## 🏗️ Project Structure
 
